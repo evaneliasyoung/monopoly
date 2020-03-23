@@ -5,7 +5,7 @@
 
 @author    Evan Elias Young
 @date      2020-01-09
-@date      2020-03-21
+@date      2020-03-23
 @copyright Copyright 2020 Evan Elias Young. All rights reserved.
 """
 
@@ -140,7 +140,7 @@ for k in range(GAMES):
 
         ends[space_list[pl]] += 1
 
-print('MONO-PY')
+print('MONO-PYTHON')
 print(f'RUNNING {GAMES} GAMES')
 print(f'PLAYING {MOVES} MOVES')
 print('DONE!')
